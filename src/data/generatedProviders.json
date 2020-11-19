@@ -1,0 +1,204 @@
+{
+    "Practitioners": [
+    {
+      "_id": "5fa21658918f3f56b196541d",
+      "newPatients": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 49,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "Todd, Reeves",
+      "institution": "OBLIQ Hospital",
+      "email": "undefined.undefined@undefined.biz",
+      "work": "+1 (919) 407-3092",
+      "fax": "+1 (864) 437-2732",
+      "address": "519 Varick Street, Winston, California, 3117",
+      "about": "Minim elit occaecat et ex mollit occaecat eiusmod velit laborum laborum dolore nostrud eu do. Esse ut consectetur qui eu duis culpa ad eu non quis irure. Aliquip nostrud magna consequat ad enim labore elit. Enim aliquip dolor commodo aliqua.",
+      "registered": "Friday, July 8, 2016 9:31 PM",
+      "lat": "-57.755474",
+      "lng": "24.859861",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Cooke, Betsy}"
+        },
+        {
+          "id": 1,
+          "name": "Mays, Osborne}"
+        },
+        {
+          "id": 2,
+          "name": "Fowler, Ofelia}"
+        }
+      ],
+      "affiliations": "Family Health Center",
+      "specialties": "knees"
+    },
+    {
+      "_id": "5fa216581eaa625cb6522990",
+      "newPatients": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 32,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "English, Katina",
+      "institution": "EXTRO Hospital",
+      "email": "undefined.undefined@undefined.name",
+      "work": "+1 (910) 509-3971",
+      "fax": "+1 (863) 426-3628",
+      "address": "570 Bevy Court, Albany, Illinois, 1625",
+      "about": "Lorem fugiat incididunt excepteur elit exercitation Lorem aute eiusmod est laborum ex consectetur. Ipsum in proident consequat commodo ea aute et aliquip sit et officia nisi veniam in. Et ut incididunt ea laborum laborum velit Lorem exercitation id et. Fugiat sit ea labore ex commodo ipsum ut fugiat commodo officia. Nisi qui et officia reprehenderit culpa aute.",
+      "registered": "Saturday, February 7, 2015 6:35 PM",
+      "lat": "55.246645",
+      "lng": "-134.663438",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Riddle, Bernadette}"
+        },
+        {
+          "id": 1,
+          "name": "Peterson, Bryan}"
+        },
+        {
+          "id": 2,
+          "name": "Horton, Gallagher}"
+        }
+      ],
+      "affiliations": "PaediatricsRus",
+      "specialties": "toes"
+    },
+    {
+      "_id": "5fa2165801af27567ebb7577",
+      "newPatients": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "Berg, Russo",
+      "institution": "PROWASTE Hospital",
+      "email": "undefined.undefined@undefined.net",
+      "work": "+1 (999) 493-3909",
+      "fax": "+1 (935) 509-2784",
+      "address": "573 Cornelia Street, Orason, West Virginia, 2468",
+      "about": "Quis nostrud voluptate sit fugiat consectetur laboris labore cupidatat duis mollit id in adipisicing elit. Laborum amet aliquip consequat minim anim ullamco. Eiusmod sint ipsum irure eiusmod aliqua pariatur deserunt laborum culpa dolor labore ut Lorem. Non sint adipisicing voluptate veniam aute sunt eiusmod incididunt ad. Velit adipisicing labore commodo laboris do est duis. Dolore sint nostrud consectetur nostrud minim labore ullamco enim consequat magna officia commodo mollit. Minim excepteur consequat nostrud ipsum est ullamco anim ipsum fugiat ex enim incididunt culpa exercitation.",
+      "registered": "Thursday, August 28, 2014 9:02 AM",
+      "lat": "1.659791",
+      "lng": "109.286485",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Larson, Stacie}"
+        },
+        {
+          "id": 1,
+          "name": "Steele, Felecia}"
+        },
+        {
+          "id": 2,
+          "name": "Nixon, Mccray}"
+        }
+      ],
+      "affiliations": "Internal Med Ctr",
+      "specialties": "hips",
+      "accomodations": "Wheelchair access"
+    },
+    {
+      "_id": "5fa2165862398e4a5a8cb9cb",
+      "newPatients": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "Ramos, Nixon",
+      "institution": "CONFERIA Hospital",
+      "email": "undefined.undefined@undefined.org",
+      "work": "+1 (814) 520-3273",
+      "fax": "+1 (881) 529-2177",
+      "address": "388 Grace Court, Brownsville, Puerto Rico, 6574",
+      "about": "Laborum incididunt laboris labore sunt. Enim do ullamco id consectetur commodo culpa officia tempor. Ea fugiat aliquip nostrud labore adipisicing. Ea voluptate esse ex ullamco sint aute sint ex proident deserunt laboris laboris anim minim. Elit ut voluptate eiusmod eiusmod minim esse velit occaecat amet qui duis esse. Proident labore ut nostrud culpa nisi irure.",
+      "registered": "Monday, December 10, 2018 5:59 PM",
+      "lat": "-3.91894",
+      "lng": "65.916426",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Mcmahon, Melba}"
+        },
+        {
+          "id": 1,
+          "name": "Francis, Ruby}"
+        },
+        {
+          "id": 2,
+          "name": "Ferrell, Patel}"
+        }
+      ],
+      "affiliations": "Internal Med Ctr",
+      "specialties": "hips"
+    },
+    {
+      "_id": "5fa21658fac4d77250bcfa0e",
+      "newPatients": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 56,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "Boyle, Kerr",
+      "institution": "EXOSPEED Hospital",
+      "email": "undefined.undefined@undefined.biz",
+      "work": "+1 (966) 465-3768",
+      "fax": "+1 (859) 596-2528",
+      "address": "498 Mersereau Court, Mulberry, New York, 3733",
+      "about": "Consectetur cillum ut voluptate cillum reprehenderit ea commodo consequat aute esse deserunt consectetur sunt. Nulla veniam deserunt do occaecat cupidatat elit minim ex. Aliqua commodo eu ullamco Lorem laboris enim nisi dolore dolore exercitation incididunt elit qui qui. Aute enim deserunt esse non amet commodo consequat est anim magna aute. Duis proident sint commodo sint dolor occaecat sit nulla sit enim sunt dolore.",
+      "registered": "Wednesday, January 3, 2018 3:42 PM",
+      "lat": "52.717885",
+      "lng": "-69.634807",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Levine, Bird}"
+        },
+        {
+          "id": 1,
+          "name": "Bell, Ruiz}"
+        },
+        {
+          "id": 2,
+          "name": "Bradley, Debra}"
+        }
+      ],
+      "affiliations": "Internal Med Ctr",
+      "specialties": "toes"
+    },
+    {
+      "_id": "5fa21658e61ef29de526f9ca",
+      "newPatients": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 53,
+      "greeting": "Hello, undefined! Let me help.",
+      "name": "Smith, Isabel",
+      "institution": "MEMORA Hospital",
+      "email": "undefined.undefined@undefined.me",
+      "work": "+1 (980) 436-3472",
+      "fax": "+1 (808) 452-2340",
+      "address": "727 Caton Place, Lowgap, Iowa, 1945",
+      "about": "Sint do nulla elit aute id veniam adipisicing irure cillum voluptate. Eu nostrud in minim voluptate velit. Ex ex ipsum irure dolore reprehenderit aliquip culpa ipsum esse deserunt. Aute sunt et elit dolore pariatur cillum veniam laborum cupidatat fugiat occaecat mollit.",
+      "registered": "Monday, May 14, 2018 12:57 AM",
+      "lat": "43.83054",
+      "lng": "90.958618",
+      "associations": [
+        {
+          "id": 0,
+          "name": "Matthews, Atkinson}"
+        },
+        {
+          "id": 1,
+          "name": "Garza, Jackie}"
+        },
+        {
+          "id": 2,
+          "name": "Oneill, Margaret}"
+        }
+      ],
+      "affiliations": "Family Health Center",
+      "specialties": "hips",
+      "accomodations": "listening"
+    }
+  ]
+}
